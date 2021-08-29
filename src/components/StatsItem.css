@@ -1,0 +1,27 @@
+.stats-list__item {
+	font-size: 26px;
+	display: flex;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.stats-list--inner {
+	margin-bottom: 2rem;
+}
+
+.stats-list__icon {
+	width: 15px;
+	height: 15px;
+	margin-right: 0.5rem;
+}
+
+.stats-list__item-text {
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.stats-list__display {
+	font-weight: bold;
+	color: #c20114;
+}

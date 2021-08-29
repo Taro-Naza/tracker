@@ -1,0 +1,9 @@
+.add-application--inner {
+	max-width: 1024px;
+	width: 800px;
+	margin: 0 auto;
+}
+
+.add-application--header {
+	margin-top: 10rem;
+}

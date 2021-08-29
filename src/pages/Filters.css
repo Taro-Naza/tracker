@@ -1,0 +1,10 @@
+.filters--input {
+	max-width: 1024px;
+	width: 33%;
+	margin: 6rem auto 0 auto;
+}
+
+.filters__illustration {
+	text-align: center;
+	margin-top: 10rem;
+}

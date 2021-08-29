@@ -1,0 +1,34 @@
+.home {
+	display: flex;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+}
+
+.home__left {
+	flex: 1;
+}
+
+.home__illustration-center {
+	margin-left: 6rem;
+	text-align: center;
+}
+
+.home__illustration-hire {
+	width: 60%;
+}
+
+.home__illustration-bottom {
+	position: relative;
+	left: -150px;
+	top: -100px;
+}
+
+.home__right {
+	flex: 1;
+	background-image: url(../assets/images/gradient.svg);
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

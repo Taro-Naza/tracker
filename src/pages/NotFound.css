@@ -1,0 +1,13 @@
+.not-found {
+	text-align: center;
+	height: 100%;
+}
+
+.not-found__illustration {
+	margin-top: 5rem;
+}
+
+.not-found__illustration > svg {
+	height: 700px;
+	width: 900px;
+}

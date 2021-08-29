@@ -1,0 +1,44 @@
+.header {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.header--nav {
+	margin-right: 5rem;
+}
+
+.nav {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 50px;
+	width: 50%;
+}
+
+.nav__item {
+	margin-left: 50px;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 20px;
+	color: #fff;
+
+	transition: all 200ms ease-in;
+}
+
+.nav__item--dark {
+	color: #222823;
+	fill: #222823;
+}
+
+.nav__item:hover {
+	text-decoration: underline;
+}
+
+.nav__icon {
+	fill: #fff;
+	margin-right: 10px;
+	height: 25px;
+	width: 25px;
+}
